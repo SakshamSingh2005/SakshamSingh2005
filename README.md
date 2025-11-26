@@ -4,12 +4,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Tarun Sharma</h1>
+<h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 <h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Problem Solver | AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@+GLA+University;MERN+Stack+Developer;AI+and+Automation+Learner;Building+projects+that+impact+💡" width="100%" />
 </p>
+
+
 
 ---
 
@@ -24,56 +26,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🏎️ **CarRental – Online Car Booking System**
-> A full-stack platform to rent cars, manage bookings, and track availability in real time.  
-> 🟢 **Live:** [car-rental-server-nine-mu.vercel.app](https://car-rental-server-nine-mu.vercel.app/)  
-> 📦 **Repo:** [GitHub/CarRental](https://github.com/Tarunkumar0089/CarRental)
-
-<p align="center">
-  <a href="https://github.com/Tarunkumar0089/CarRental">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarunkumar0089&repo=CarRental&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 🎓 **PLACEMENT-HUB – College Placement Portal**
-> Web app to manage college placements, student records, and recruiter data efficiently.  
-> 📦 **Repo:** [GitHub/PLACEMENT-HUB](https://github.com/Tarunkumar0089/PLACEMENT-HUB)
-
-<p align="center">
-  <a href="https://github.com/Tarunkumar0089/PLACEMENT-HUB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarunkumar0089&repo=PLACEMENT-HUB&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 🎬 **QUICKSHOW – Event Ticket Booking Platform**
-> Book and manage show tickets online, featuring modern UI and fast performance.  
-> 📦 **Repo:** [GitHub/QUICKSHOW](https://github.com/Tarunkumar0089/QUICKSHOW)
-
-<p align="center">
-  <a href="https://github.com/Tarunkumar0089/QUICKSHOW">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarunkumar0089&repo=QUICKSHOW&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### ⚛️ **tarun-or-react – My React Component Playground**
-> A personal sandbox for testing, learning, and improving React component design.  
-> 📦 **Repo:** [GitHub/tarun-or-react](https://github.com/Tarunkumar0089/tarun-or-react)
-
-<p align="center">
-  <a href="https://github.com/Tarunkumar0089/tarun-or-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarunkumar0089&repo=tarun-or-react&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -154,16 +106,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:tarunkumar321028@gmail.com">
+  <a href="mailto:sakshamuni1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tarun-sharma-562240324/">
+  <a href="https://www.linkedin.com/in/saksham-singh-4203a5346/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Tarunsharma45/">
+  <a href="https://leetcode.com/u/saksham_200527">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
-  <a href="https://github.com/Tarunkumar0089">
+  <a href="https://github.com/SakshamSingh2005">
     <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
